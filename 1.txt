@@ -1,3 +1,5 @@
 Nothing interesting here
 
 Added string
+
+Yes, another string
