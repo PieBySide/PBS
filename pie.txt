@@ -1,3 +1,5 @@
 Hello world, PieBySide here
 
 Trying out GIT
+
+This is the new string
